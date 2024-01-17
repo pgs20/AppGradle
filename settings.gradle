@@ -1,0 +1,5 @@
+rootProject.name = 'appGradle'
+include 'db'
+include 'api'
+include 'service'
+
